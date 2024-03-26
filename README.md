@@ -17,10 +17,6 @@
 mi-shop
 </h1>
 
-<h4 align="center">
-vue项目-仿小米移动商城开源版。代码可自由更改，转载请注明出处，切勿用于商业用途。
-</h4>
-
 
 <h5 align="center">
 DEMO
@@ -31,14 +27,14 @@ DEMO
   
 </div>
 <div align="center">
-  <a href="http://show.verydog.cn/mi">在线演示</a>
+  <a href="http://show.verydog.cn/mi">MyContact</a>
 </div>
 
 ## Install
 ```
   git clone https://github.com/Jon-Millent/mi-shop.git
   cd mi-shop
-  npm install & yarn
+  npm install & yarn add
   npm run serve
 ```
 ## Module
